@@ -1,0 +1,35 @@
+body{
+  background-image:url('../image/lb.jpg');
+  margin:0 0 80px 80px;
+}
+.heading{
+  color:white;
+  background-color:navy;
+  width:100%;
+}
+.heading h1{
+  padding:10px;
+}
+#questionblock{
+  background-color: white;
+  border-style: solid;
+  border-color: navy;
+  width:60%;
+  padding:20px;
+}
+.que{
+  font-size: 20px;
+  color:navy;
+  font-weight: bold;
+}
+.options{
+  color:blue;
+  margin-left: 20px;
+}
+.submit input{
+  width:200px;
+  margin:10px;
+}
+#a{
+  color:red;
+}
